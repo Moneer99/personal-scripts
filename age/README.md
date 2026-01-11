@@ -45,7 +45,7 @@ If the input is
 
 
 The output will be:
-
+```bash
 ------------------------------------
 
 Your Birthday Date: 2005-12-08
@@ -60,4 +60,4 @@ Your Birthday Date: 2005-12-08
 📅 Remaining until your next birthday:
    10 Months and 27 Days
 ------------------------------------
-
+```
